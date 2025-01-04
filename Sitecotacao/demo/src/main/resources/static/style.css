@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to right, #000000, #9a9a9a);
+}
+label{
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 20px;
+    background-color: gray;
+}
+p#cotacaododolar{
+    font-weight: bold;
+    background-color: gray;
+}
+div#divdodolar{
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    align-self: center;
+    align-items: center;
+    width: 300px;
+    height: 150px;
+    background-color: gray;
+    border-radius: 10px;
+}
+span{
+    font-size: 25px;
+}
