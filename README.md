@@ -9,4 +9,4 @@
     <li>CurrencyLayer API</li>
 </ul>
 
-![image](https://github.com/user-attachments/assets/b7f8077d-7a8a-476e-81cf-5c05a42b6139)
+![image](https://github.com/user-attachments/assets/c8e82c9a-4bc4-4c9c-ad5a-72f30109f479)
