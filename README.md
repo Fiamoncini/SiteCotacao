@@ -8,3 +8,5 @@
     <li>Thymeleaf</li>
     <li>CurrencyLayer API</li>
 </ul>
+
+![image](https://github.com/user-attachments/assets/b7f8077d-7a8a-476e-81cf-5c05a42b6139)
